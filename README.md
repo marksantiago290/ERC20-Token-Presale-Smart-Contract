@@ -349,7 +349,7 @@ Warning: Presale start date is in the past
 
 ## 📋 Smart Contract Functions & Documentation
 
-For a detailed breakdown of all available functions for owners and investors, please refer to our [Function Documentation](https://github.com/marksantiago02/ERC20-Token-Presale-smart-contract/blob/master/function_description.md).
+For a detailed breakdown of all available functions for owners and investors, please refer to our [Function Documentation](https://github.com/marksantiago290/ERC20-Token-Presale-smart-contract/blob/master/function_description.md).
 
 ---
 
@@ -363,18 +363,7 @@ For a detailed breakdown of all available functions for owners and investors, pl
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE).
-
----
-
-## 📞 Contact Information
-
-- **Email:** marksantiago0929@gmail.com  
-- **Telegram:** [@marksantiago02](https://t.me/marksantiago02)  
-- **Discord:** @marksantiago02_  
-- **Twitter:** [@marksantiago02](https://twitter.com/marksantiago02)  
-- **Instagram:** [@marksantiago_0929](https://www.instagram.com/marksantiago_0929/)  
-- **LinkedIn:** [Mark Santiago](https://www.linkedin.com/in/mark-santiago-373172339/)  
+This project is licensed under the [MIT License](./LICENSE). 
 
 ---
 

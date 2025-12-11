@@ -92,7 +92,7 @@ Compatible with major Web3 wallets:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/BTC415/ERC20-Token-Presale-Smart-Contract.git
+   git clone https://github.com/marksantiago290/ERC20-Token-Presale-Smart-Contract.git
    cd ERC20-Token-Presale-Smart-Contract
    ```
 
